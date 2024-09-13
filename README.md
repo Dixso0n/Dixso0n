@@ -1,16 +1,16 @@
-## Hi there 👋
+![Banner presentacion](github-header-image.png)
 
-<!--
-**Dixso0n/Dixso0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante ciencias de la computacion | interes en el analisis de datos y machine learning | You'll never walk alone | philosophy and literature | ethics
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dixso0n)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dixso0n)
 
-Here are some ideas to get you started:
+## Datos sobre mi
+- 🌱 Estoy aprendiendo tecnicas nuevas de visualizacion y **analisis de datos**.
+- 🔭 Estoy implementando modelos matematicos de **Machine learning**
+- 📫 Contacto: zwith940@gmail.com
+- 💬 Homo sum, humani nihil a me alienum puto 
+- 🤔 I only know, that i know nothing - Socrates 470 A.C - 399 A.C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
